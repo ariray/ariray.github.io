@@ -155,6 +155,7 @@ keep_files:
   - CNAME
   - .nojekyll
   - .git
+  - node_modules
 
 # Plug-ins
 plugins:
