@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PostDoc and Senior Lecturer (Chargée de cours) at the University of Geneva. My work centers on socio-political inequality and the behavioral foundations of economic policymaking.
+I'm a PostDoc and Senior Lecturer (Chargée de cours) at the University of Geneva(https://unequaldemocracies.unige.ch/en/people/ari-ray/). My work centers on socio-political inequality and the behavioral foundations of economic policymaking.
 
 Before arriving in Geneva, I was a Max Weber Fellow at the European University Institute; a PhD Researcher at the University of Zurich and a SNSF Predoctoral Fellow at Stanford University. Projects of mine have recieved financing from the Swiss National Science Foundation, the Russell Sage Foundation and the Stanford Institute for Economic Policy Research.
 
