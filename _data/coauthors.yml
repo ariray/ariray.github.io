@@ -1,3 +1,28 @@
+
+"Pontusson":
+  - firstname: ["Jonas", "J.", ]
+    url: https://www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/jonas-pontusson/
+
+"Colombo":
+  - firstname: ["Francesco", "F.", ]
+    url: https://www.francescocolombo.eu/
+
+"Walter":
+  - firstname: ["Stefanie", "S."]
+    url: https://www.stefaniewalter.de/
+
+"Schwander":
+  - firstname: ["Hanna", "H."]
+    url: http://www.schwander-hanna.ch/
+
+"Redeker":
+  - firstname: ["Nils", "N."]
+    url: https://www.delorscentre.eu/en/team/profile/person/redeker
+
+"Marble":
+  - firstname: ["William", "W."]
+    url: https://williammarble.co/
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
@@ -10,7 +35,7 @@
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
+"Bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
