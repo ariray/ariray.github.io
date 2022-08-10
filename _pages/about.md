@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 subtitle: #<a href='#'>University of Geneva</a>. Address. Contacts. Moto. Etc.
 
 profile:
