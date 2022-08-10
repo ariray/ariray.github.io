@@ -1,13 +1,23 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
-nav_order: 4
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [representation, public opinion]
 horizontal: false
 ---
+
+
+My research is rooted in political economy and political behavior, and has focused mainly on Southern Europe. It is structured around two main pillars, which
+
+(i) the institutional drivers of political inequality
+
+(ii) the material drivers of fiscal and spending preferences
+
+Both lie at the core of questions surrounding democratic representation---for only when armed with a clear understanding of the interests of political actors, can we effectively start to discuss representation in substantive terms.
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -34,6 +44,7 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
+
 
 {%- else -%}
 <!-- Display projects without categories -->

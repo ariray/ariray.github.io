@@ -1,0 +1,20 @@
+I"a<p>My research is rooted in political economy and political behavior, and has focused mainly on Southern Europe. It is structured around two main pillars, which</p>
+
+<p>(i) the institutional drivers of political inequality</p>
+
+<p>(ii) the material drivers of fiscal and spending preferences</p>
+
+<p>Both lie at the core of questions surrounding democratic representation—for only when armed with a clear understanding of the interests of political actors, can we effectively start to discuss representation in substantive terms.</p>
+
+<!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">representation</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+  </div>
+  <h2 class="category">public opinion</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+  </div></div>
+:ET

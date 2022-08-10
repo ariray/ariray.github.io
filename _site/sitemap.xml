@@ -23,13 +23,10 @@
 <loc>http://localhost:4000/blog/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/_pages/dropdown/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/blog/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/publications/</loc>
+<loc>http://localhost:4000/blog/papers/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/teaching/</loc>

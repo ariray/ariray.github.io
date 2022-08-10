@@ -1,12 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses I've taught
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+###### **Comparative Politics**
+
+Compulsory MA module, currently offered at the University of Geneva. (Syllabus)
+
+***
+
+
+###### **The Politics of the Euro Crisis**
+
+Advanced BA Seminar (w. Nils Redeker). Formerly offered at the University of Zurich. (Syllabus)

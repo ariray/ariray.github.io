@@ -1,0 +1,14 @@
+I"…<!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">representation</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+  </div>
+  <h2 class="category">public opinion</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+  </div></div>
+
+<p>So if I write something here, where does it show up?</p>
+:ET
