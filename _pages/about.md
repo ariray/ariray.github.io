@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: #<a href='#'>University of Geneva</a>. Address. Contacts. Moto. Etc.
-
+subtitle: #<a href='#'>University of Geneva</a>.
 profile:
   align: right
   image: prof_pic.jpg
