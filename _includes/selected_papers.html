@@ -1,5 +1,9 @@
 
      <div class="publications">
             <h2>Selected publications</h2>
+            {% raw %}
             {% bibliography -f papers -q @*[selected=true]* %}
+            {% endraw %}
           </div>
+
+        
