@@ -8,11 +8,13 @@ nav: true
 nav_order: 3
 ---
 
-##### **Published**
+##### **Book**
 
 ###### **The Politics of Bad Options: Why the Problems of the Eurozone are so Hard to Resolve** (w. Stefanie Walter and Nils Redeker). Now available open access via <a href="https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857020?cc=ch&lang=en&">Oxford University Press</a>.
 
 <div markdown="span" class="alert alert-info" role="alert">Why was the Eurozone crisis so difficult to resolve? And why was it resolved in a manner in which some countries bore a much larger share of the pain than others? Building on macro-level statistical data, original survey data from interest groups, and comparative case studies, this book shows that the answers to these questions revolve around distributive struggles about how the costs of the Eurozone crisis should be divided among countries, and within countries, among different socioeconomic groups. Together with divergent but strongly held ideas about the 'right way' to conduct economic policy and asymmetries in the distribution of power among actors, severe distributive concerns of important actors lie at the root of the difficulties of resolving the Eurozone crisis as well as the difficulties to substantially reform EMU. The book provides new insights into the politics of the Eurozone crisis by emphasizing three perspectives that have received scant attention in existing research: a comparative perspective on the Eurozone crisis by systematically comparing it to previous financial crises, an analysis of the whole range of policy options, including the ones not chosen, and a unified framework that examines crisis politics not just in deficit-debtor, but also in surplus-creditor countries.</div>
+
+
 
 ##### **Working Papers**
 
