@@ -21,9 +21,8 @@ Are there trade-offs in the representation of women and workers? I analyze Itali
 
 ###### **Trust in Action: Cooperation, Information and Social Policy Preferences in Italy** (w. Francesco Colombo, R+R)
 
-What happens to people’s social policy preferences when their expectations
-concerning collective behavior are met or even exceeded? Conversely, what happens when their these expectations are unmet, and trust is thereby breached?
-Drawing on the first Italian COVID-19 lockdown as a massive exercise in collective action, this study tests how information on lockdown compliance rates causally affects the social policy preferences of Italian voters, conditional on their pre-treatment levels of trust. Examining social policy preferences across multiple dimensions, we find that trust is most closely linked to attitudes towards transfer generosity rather than to preferences regarding policy universalism and conditionality. Results highlight that neutral, fact-based information on cooperation levels can affect social policy preferences, and that the direction of attitude change depends on whether one’s trust has been met or breached.
+  <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> What happens to people’s social policy preferences when their expectations concerning collective behavior are met or even exceeded? Conversely, what happens when their these expectations are unmet, and trust is thereby breached? Drawing on the first Italian COVID-19 lockdown as a massive exercise in collective action, this study tests how information on lockdown compliance rates causally affects the social policy preferences of Italian voters, conditional on their pre-treatment levels of trust. Examining social policy preferences across multiple dimensions, we find that trust is most closely linked to attitudes towards transfer generosity rather than to preferences regarding policy universalism and conditionality. Results highlight that neutral, fact-based information on cooperation levels can affect social policy preferences, and that the direction of attitude change depends on whether one’s trust has been met or breached. </div>
+
 
 ##### **In Progress**
 
