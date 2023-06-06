@@ -21,10 +21,14 @@ social: false  # includes social icons at the bottom of the page
 
 ##### Political Scientist, [University of Geneva](https://www.unige.ch/sciences-societe/en/departments/dspri/)
 
-I'm a PostDoc and Senior Lecturer (Chargée de cours) at the [University of Geneva](https://unequaldemocracies.unige.ch/en/people/ari-ray/), where I work on the causes of socio-political inequality and the behavioral foundations of economic policymaking.
+I'm a PostDoc at the [University of Geneva](https://unequaldemocracies.unige.ch/en/people/ari-ray/), where I work on the causes of socio-political inequality and the behavioral foundations of economic policymaking.
 
 In my postdoctoral research, I leverage a combination of survey and public archival data to investigate the conditions under which people from structurally disprivileged backgrounds are able to attain public office.
 
 Before arriving in Geneva, I was a Max Weber Fellow at the European University Institute; a PhD Researcher at the University of Zurich and a SNSF Predoctoral Fellow at Stanford University. Projects of mine have recieved financing from the Swiss National Science Foundation, the Russell Sage Foundation and the Stanford Institute for Economic Policy Research.
 
-In Geneva, I teach the MA module on Comparative Politics. The course is compulsory for students enrolled in Political Science and/or Public Policy programs---and available as an elective for students from other social scientific displines.
+During the academic year 2023/24, I will be a Junior Fellow at the [Collegium Helveticum](https://collegium.ethz.ch/), affiliated with the Urban Policy group at [ETH Zurich](https://spur.ethz.ch/).
+
+
+
+<!--In Geneva, I teach the MA module on Comparative Politics. The course is compulsory for students enrolled in Political Science and/or Public Policy programs---and available as an elective for students from other social scientific displines. -->

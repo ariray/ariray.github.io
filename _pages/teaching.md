@@ -11,7 +11,7 @@ nav_order: 4
 
 ###### **Comparative Politics**
 
-Compulsory MA module, currently offered at the University of Geneva <a href="/assets/pdf/HS22_CP_syllabus.pdf">(Syllabus)</a>.
+Compulsory MA lecture, incl. tutorials. Formerly offered at the University of Geneva <a href="/assets/pdf/HS22_CP_syllabus.pdf">(Syllabus)</a>.
 
 ***
 

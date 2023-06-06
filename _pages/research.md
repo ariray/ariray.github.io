@@ -12,31 +12,44 @@ nav_order: 3
 
 ###### **The Politics of Bad Options: Why the Problems of the Eurozone are so Hard to Resolve** (w. Stefanie Walter and Nils Redeker). Now available open access via <a href="https://global.oup.com/academic/product/the-politics-of-bad-options-9780198857020?cc=ch&lang=en&">Oxford University Press</a>.
 
+<ul>
+ <li><em>Awarded Honorable Mention, 2021 Best Book Award, APSA European Politics Section</em></li>
+</ul>
+
 <div markdown="span" class="alert alert-info" role="alert">Why was the Eurozone crisis so difficult to resolve? And why was it resolved in a manner in which some countries bore a much larger share of the pain than others? Building on macro-level statistical data, original survey data from interest groups, and comparative case studies, this book shows that the answers to these questions revolve around distributive struggles about how the costs of the Eurozone crisis should be divided among countries, and within countries, among different socioeconomic groups. Together with divergent but strongly held ideas about the 'right way' to conduct economic policy and asymmetries in the distribution of power among actors, severe distributive concerns of important actors lie at the root of the difficulties of resolving the Eurozone crisis as well as the difficulties to substantially reform the EMU. The book provides new insights into the politics of the Eurozone crisis by emphasizing three perspectives that have received scant attention in existing research: a comparative perspective on the Eurozone crisis by systematically comparing it to previous financial crises, an analysis of the whole range of policy options, including the ones not chosen, and a unified framework that examines crisis politics not just in deficit-debtor, but also in surplus-creditor countries.</div>
 
 
 
 ##### **Working Papers**
 
+###### **When Identity trumps Class: Women, Workers and Statistical Representation under Low Party Gatekeeping**
+
+<ul>
+ <li><em>Winner of 2023 CQ Press Award, APSA Legislative Studies Section</em></li>
+ <li><em>Awarded Honorable Mention, 2023 EGEN Award, The Empirical Study of Gender Research Network</em></li>
+</ul>
+
+<div markdown="span" class="alert alert-info" role="alert">Are there trade-offs in the representation of women and workers? I analyze Italian archival data to examine how an exogenous increase in the number of women in elected office affects legislature class composition. For this, I leverage an natural experiment, in which some municipalities temporarily introduced gender quotas on party lists in the mid-1990s. Findings show that having a singular election with a gender quota has positive effects on the descriptive representation of women who belong to the lower-middle and working classes. The political opportunities of upper-middle class women were unaffected by the quota, as are those of working class men. Instead, it is middle class men who lose out as a result of quota adoption. Results highlight that---in contexts characterized by low levels of party gate-keeping---gender parity rules can work to bolster the prevalence of social groups that are the most under-represented in politics. And that when this occurs, these improvements come mainly at the cost of groups that are traditionally over-represented.</div>
+
+###### **Trust in Action: Cooperation, Information and Social Policy Preferences in Italy** (w. Francesco Colombo). Conditionally accepted at <em>Political Psychology</em>.
+
+<div markdown="span" class="alert alert-info" role="alert">What happens to people’s social policy preferences when their expectations concerning collective behavior are met or even exceeded? Conversely, what happens when their these expectations are unmet, and trust is thereby breached? Drawing on the first Italian COVID-19 lockdown as a massive exercise in collective action, this study tests how information on lockdown compliance rates causally affects the social policy preferences of Italian voters, conditional on their pre-treatment levels of trust. Examining social policy preferences across multiple dimensions, we find that trust is most closely linked to attitudes towards transfer generosity rather than to preferences regarding policy universalism and conditionality. Results highlight that neutral, fact-based information on cooperation levels can affect social policy preferences, and that the direction of attitude change depends on whether one’s trust has been met or breached. </div>
+
 ###### **Electoral Formulas, Party Magnitude and Class Representation in List Systems**
 <div markdown="span" class="alert alert-info" role="alert">Proportional electoral systems are often seen as the best means to produce descriptively representative government. In this paper, I argue that majority bonuses---whereby the party that obtains a plurality of votes automatically obtains an absolute majority in the legislature---can actually bolster the number of statistically atypical working-class candidates that manage to obtain office. The difference can be mechanically driven, as workers are systematically granted lower placements on party lists. Majority bonuses increase the number of seats allocated to winning parties, thereby reducing the number of parties in a given legislature. These dynamics enable a larger number of workers with low list placements to enter elected office. As a test of theory, I present evidence from a natural experiment on a municipality-level change in Italian electoral law.</div>
 
 
-###### **When Identity trumps Class: Women, Workers and Statistical Representation under Low Party Gatekeeping**
-
-<div markdown="span" class="alert alert-info" role="alert">Are there trade-offs in the representation of women and workers? I analyze Italian archival data to examine how an exogenous increase in the number of women in elected office affects legislature class composition. For this, I leverage an natural experiment, in which some municipalities temporarily introduced gender quotas on party lists in the mid-1990s. Findings show that having a singular election with a gender quota has positive effects on the descriptive representation of women who belong to the lower-middle and working classes. The political opportunities of upper-middle class women were unaffected by the quota, as are those of working class men. Instead, it is middle class men who lose out as a result of quota adoption. Results highlight that---in contexts characterized by low levels of party gate-keeping---gender parity rules can work to bolster the prevalence of social groups that are the most under-represented in politics. And that when this occurs, these improvements come mainly at the cost of groups that are traditionally over-represented.</div>
-
-
-
-###### **Trust in Action: Cooperation, Information and Social Policy Preferences in Italy** (w. Francesco Colombo, R+R)
-
-<div markdown="span" class="alert alert-info" role="alert">What happens to people’s social policy preferences when their expectations concerning collective behavior are met or even exceeded? Conversely, what happens when their these expectations are unmet, and trust is thereby breached? Drawing on the first Italian COVID-19 lockdown as a massive exercise in collective action, this study tests how information on lockdown compliance rates causally affects the social policy preferences of Italian voters, conditional on their pre-treatment levels of trust. Examining social policy preferences across multiple dimensions, we find that trust is most closely linked to attitudes towards transfer generosity rather than to preferences regarding policy universalism and conditionality. Results highlight that neutral, fact-based information on cooperation levels can affect social policy preferences, and that the direction of attitude change depends on whether one’s trust has been met or breached. </div>
 
 ##### **In Progress**
 
-Social Class and Fiscal Policy Enactment among Italian Mayors (with Pietro Panizza)
+A Matter of Size: District Magnitude and the Numerical Representation of the Working Classes
+
+Social Class and Fiscal Policy Enactment among Municipal Executives (with Pietro Panizza)
 
 Trade Unions and Electoral Support for Left Parties in Sweden (1986-2018) (with Jonas Pontusson)
+
+Which Non-Natives do Parties Nominate for Office? (with Anna-Lena Nadler)
+
 
 
 ##### **Book reviews and other texts**
