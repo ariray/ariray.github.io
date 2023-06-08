@@ -36,7 +36,12 @@ nav_order: 3
 <div markdown="span" class="alert alert-info" role="alert">What happens to people’s social policy preferences when their expectations concerning collective behavior are met or even exceeded? Conversely, what happens when their these expectations are unmet, and trust is thereby breached? Drawing on the first Italian COVID-19 lockdown as a massive exercise in collective action, this study tests how information on lockdown compliance rates causally affects the social policy preferences of Italian voters, conditional on their pre-treatment levels of trust. Examining social policy preferences across multiple dimensions, we find that trust is most closely linked to attitudes towards transfer generosity rather than to preferences regarding policy universalism and conditionality. Results highlight that neutral, fact-based information on cooperation levels can affect social policy preferences, and that the direction of attitude change depends on whether one’s trust has been met or breached. </div>
 
 ###### **Electoral Formulas, Party Magnitude and Class Representation in List Systems**
+
 <div markdown="span" class="alert alert-info" role="alert">Proportional electoral systems are often seen as the best means to produce descriptively representative government. In this paper, I argue that majority bonuses---whereby the party that obtains a plurality of votes automatically obtains an absolute majority in the legislature---can actually bolster the number of statistically atypical working-class candidates that manage to obtain office. The difference can be mechanically driven, as workers are systematically granted lower placements on party lists. Majority bonuses increase the number of seats allocated to winning parties, thereby reducing the number of parties in a given legislature. These dynamics enable a larger number of workers with low list placements to enter elected office. As a test of theory, I present evidence from a natural experiment on a municipality-level change in Italian electoral law.</div>
+
+###### **The End of Swedish Exceptionalism: The Electoral Implications of Union Decline and Competition** (with Jonas Pontusson)
+
+<div markdown="span" class="alert alert-info" role="alert">Focusing on the effects of union membership on partisan preferences, this paper explores how changes in Swedish industrial relations and trade-union politics have affected electoral support for Left parties since the mid-1980s.  We identify three developments that have adversely affected electoral support for Left parties: (1) de-unionization among blue-collar workers; (2) growth of occupational (professional) white-collar unions; and (3) an increasing tendency for unions of all kinds to focus on providing direct benefits and services to their members.  As a result of these developments, the trade-off between mobilizing working-class voters and (upper) middle-class voters have become much steeper than it used to be.</div>
 
 
 
@@ -45,8 +50,6 @@ nav_order: 3
 A Matter of Size: District Magnitude and the Numerical Representation of the Working Classes
 
 Social Class and Fiscal Policy Enactment among Municipal Executives (with Pietro Panizza)
-
-Trade Unions and Electoral Support for Left Parties in Sweden (1986-2018) (with Jonas Pontusson)
 
 Which Non-Natives do Parties Nominate for Office? (with Anna-Lena Nadler)
 
