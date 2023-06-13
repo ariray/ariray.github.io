@@ -26,7 +26,8 @@ nav_order: 3
 
 <ul>
  <li><em>Winner of 2023 CQ Press Award, APSA Legislative Studies Section</em></li>
- <li><em>Awarded Honorable Mention, 2023 EGEN Award, The Empirical Study of Gender Research Network</em></li>
+ <li><em>Winner of 2023 Best Paper Award, APSA Class and Inequality Section</em></li>
+ <li><em> Honorable Mention, 2023 EGEN Award, The Empirical Study of Gender Research Network</em></li>
 </ul>
 
 <div markdown="span" class="alert alert-info" role="alert">Are there trade-offs in the representation of women and workers? I analyze Italian archival data to examine how an exogenous increase in the number of women in elected office affects legislature class composition. For this, I leverage an natural experiment, in which some municipalities temporarily introduced gender quotas on party lists in the mid-1990s. Findings show that having a singular election with a gender quota has positive effects on the descriptive representation of women who belong to the lower-middle and working classes. The political opportunities of upper-middle class women were unaffected by the quota, as are those of working class men. Instead, it is middle class men who lose out as a result of quota adoption. Results highlight that---in contexts characterized by low levels of party gate-keeping---gender parity rules can work to bolster the prevalence of social groups that are the most under-represented in politics. And that when this occurs, these improvements come mainly at the cost of groups that are traditionally over-represented.</div>
