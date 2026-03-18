@@ -1,34 +1,42 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: #>
+    #<p>Uni-Mail, Room 6395</p>
+    #<p>40, Bd. du Pont d’Arve</p>
+    #<p>CH-1211 Genève 4</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+##### Political Scientist, [University of Geneva](https://www.unige.ch/)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Senior Researcher (SNSF Ambizione) at the [Department of Political Science and International Relations](https://www.unige.ch/sciences-societe/speri/) at the University of Geneva. My research centers on the causes of socio-political inequality and the behavioral foundations of economic policymaking.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my [current project](https://data.snf.ch/grants/grant/216230), I use public archival data to examine the conditions under which individuals from structurally disprivileged backgrounds grow able to attain public office, and the implications thereof for redistributive politics. I also study the micro-determinants of redistributive preferences in politics. My work in this area covers issues related to [fiscal consolidation](https://academic.oup.com/book/31955), [redistributive attitudes](https://doi.org/10.1111/pops.12944), and the role of [organized labor](https://doi.org/10.1093/ser/mwae027).
+
+Previously, I was an Early-Career Fellow at the Collegium Helveticum; a Max Weber Fellow at the European University Institute; a PhD Researcher at the University of Zurich and a SNSF Predoctoral Fellow at Stanford University.
+
+Projects of mine have recieved financing from e.g. the Swiss National Science Foundation, the Russell Sage Foundation and the Stanford Institute for Economic Policy Research. I am a recipient of the CQ Press Award from the APSA Legislative Studies section (2023), the APSA Best Paper Prize on Class & Inequality (2023), and an Honorable Mention for the APSA Best Book on European Politics and Society (2021).
+
+For more information, feel free to browse the [Research](https://www.ariray.com/research/) and [CV](https://www.ariray.com/cv/) sections of this site.
+
+

@@ -1,15 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: Courses I've taught
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+###### **Comparative Politics**
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+Compulsory MA lecture, incl. tutorials. Formerly offered at the University of Geneva <a href="/assets/pdf/HS22_CP_syllabus.pdf">(Syllabus)</a>.
 
-{% include courses.liquid %}
+***
+
+
+###### **The Politics of the Euro Crisis**
+
+Advanced BA Seminar (w. Nils Redeker). Formerly offered at the University of Zurich <a href="/assets/pdf/HS16_PEC_Syllabus.pdf">(Syllabus)</a>.
