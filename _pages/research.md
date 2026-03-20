@@ -104,7 +104,7 @@ What happens to peoples' social-policy preferences when their expectations conce
 <br>
 <br>
 Can policies aimed at increasing gender representation also shape the social class makeup of legislatures? This paper examines that question through a natural experiment in Italy, where some municipalities temporarily adopted mandatory gender quotas on candidate lists in the 1990s. Leveraging archival data, I show that these quotas led to more women being elected, es- pecially from lower-middle and working-class backgrounds, without reducing the presence of working-class men. Quota municipalities also saw higher voter turnout and legislative seat share gains for locally rooted parties, suggesting that class diversification was driven by shifts in voter behavior. These findings show that gender quotas can generate broader representational change, reshaping the social profile of legislative bodies via demand-side change. The paper contributes to our understanding of the downstream effects of inclusion for democratic institutions. </p>
-<a href="/assets/pdf/quotas_ray_02_2026.pdf">[Working paper]</a>
+<a href="/assets/pdf/quotas_ray_01_2026.pdf">[Working paper]</a>
 
 </div>
 </div>
@@ -146,8 +146,10 @@ Proportionality in electoral systems is typically viewed as essential for repres
     <div class="card-body">
 
 <p style="font-weight: 300;">
-European parties increasingly nominate immigrant-origin candidates to appeal to growing immigrant electorates, with non-citizen voting rights playing a key role in boosting immigrant descriptive representation. However, the downstream impact of such reforms on gender rep- resentation remains theoretically ambiguous. Analyzing novel data from Switzerland, we show that non-citizen enfranchisement increased both male and female immigrant-origin candidacies in local elections, primarily at the expense of native men. While immigrant-origin candidates also gained more seats post-reform, this advantage accrued only to men. The gendered gap in office- holding reflects differences in party strategies: immigrant-origin women were disproportionately nominated by populist-right parties, whose voters tend to hold stronger anti-immigration atti- tudes. These findings underscore the intersectional effects of electoral reforms: although non- citizen voting rights can generate gender-progressive gains in candidacy, they often fail to reduce gender disparities in political advancement—limiting broader representational change in elected office.
-</p>
+European parties increasingly nominate immigrant-origin candidates to appeal to growing immigrant electorates, with non-citizen voting rights playing a key role in boosting immigrant descriptive representation. However, the downstream impact of such reforms on gender representation remains theoretically ambiguous. Analyzing novel data from Switzerland, we show that non-citizen enfranchisement increased both male and female immigrant-origin candidacies in local elections, primarily at the expense of native men. While immigrant-origin candidates also gained more seats post-reform, this advantage accrued only to men. The gendered gap in officeholding reflects differences in party strategies: immigrant-origin women were disproportionately nominated by populist-right parties, whose voters tend to hold stronger anti-immigration attitudes. These findings underscore the intersectional effects of electoral reforms: although non-citizen voting rights can generate gender-progressive gains in candidacy, they often fail to reduce gender disparities in political advancement—limiting broader representational change in elected office. </p>
+
+<em>[Current draft available upon request]</em>
+
 </div>
 </div>
 </div>
@@ -156,17 +158,18 @@ European parties increasingly nominate immigrant-origin candidates to appeal to 
 
 <div class="card">
   <div class="card-header py-1" style="line-height: 1.2; font-size: 1rem; font-weight: 300; font-family: Roboto, sans-serif; text-transform: none; text-align: left;">
-    <a class="btn btn-link p-0" data-toggle="collapse" href="#collapse-article-3" role="button" aria-expanded="false" aria-controls="collapse-article-3" style="font-size: 1rem; font-weight: 300; text-decoration: none; color: inherit; text-transform: none; text-align: left;">
+    <a class="btn btn-link p-0" data-toggle="collapse" href="#collapse-article-7" role="button" aria-expanded="false" aria-controls="collapse-article-7" style="font-size: 1rem; font-weight: 300; text-decoration: none; color: inherit; text-transform: none; text-align: left;">
 
-<strong>Foundations of The People’s Home: Strategic Redistribution and the Socialist Threat in Inter-
-war Sweden</strong> (with Tine Paulsen). 
+<strong>Foundations of The People’s Home: Strategic Redistribution and the Socialist Threat in Interwar Sweden</strong> (with Tine Paulsen) 
 
   </a>
   </div>
-  <div id="collapse-article-3" class="collapse">
+  <div id="collapse-article-7" class="collapse">
     <div class="card-body">
 <p style="font-weight: 300;">
-A large body of literature has examined the drivers of welfare state expansion, highlighting how both labor and capital interests have contributed to the introduction of redistributive policies. Focusing on the interwar period, this paper extends that literature by advancing a labor mobilization argument, whereby capital interests strategically expanded residual social spending in response to a newly enfranchised and increasingly well-organized working-class electorate. To test this argument, we leverage detailed municipality-level data from Sweden on Social Democratic party membership, left-party voter support, and social spending during the interwar period (1919–1938). Our empirical strategy exploits the staggered expansion of local Social Democratic party branches and estimates their effects using a recent extension of the difference-in-differences design. Consistent with our theoretical expectations, we find that spending on poverty relief increased in the direct aftermath of social democratic party branch formation—even when holding constant the redistributive preferences of the local electorate.
+A large body of literature has examined the drivers of welfare state expansion, highlighting how both labor and capital interests have contributed to the introduction of redistributive policies. Focusing on the interwar period, this paper extends that literature by advancing a labor mobilization argument, whereby capital interests strategically expanded residual social spending in response to a newly enfranchised and increasingly well-organized working-class electorate. To test this argument, we leverage detailed municipality-level data from Sweden on Social Democratic party membership, left-party voter support, and social spending during the interwar period (1919–1938). Our empirical strategy exploits the staggered expansion of local Social Democratic party branches and estimates their effects using a recent extension of the difference-in-differences design. Consistent with our theoretical expectations, we find that spending on poverty relief increased in the direct aftermath of social democratic party branch formation—even when holding constant the redistributive preferences of the local electorate. </p>
+
+<em>[Current draft available upon request]</em>
 
 </div>
 </div>
@@ -179,19 +182,22 @@ A large body of literature has examined the drivers of welfare state expansion, 
 ##### In Progress
 <hr>
 
-**Social Class and Economic Policy Enactment among Municipal Executives** (with Pietro Panizza)
+**From Background to Budget: Mayors, Social Class and Economic Policymaking** (with Pietro Panizza)
 
-**The Political Consequences of Educational Expansion'** (w. Leonardo Carella)
+**The Political Consequences of Educational Expansion** (with Leonardo Carella)
 
 <br>
 
 <hr>
-##### Book reviews and Other texts
+##### Book Reviews and Other Texts
 <hr>
 
-**Altered Risks or Static Divides? Labor Market Inequality during the Great Recession** (with Hanna Schwander). Florence: <a href="https://cadmus.eui.eu/bitstream/handle/1814/67752/MWP_2020_09.pdf">Max Weber Working Paper No. 2020/9</a>.
+**2024. Unequal Democracies: Public Policy, Responsiveness and Redistribution in an Era of Rising Economic Inequality by Noam Lupu and Jonas Pontusson (Eds.)** (Book Review). Swiss Political Science Review, 31(2): 365-367. DOI: <a href="https://doi.org/10.1111/spsr.12642">10.1111/spsr.12642</a>.
 
 
-**From Convergence to Crisis: Labor Markets and the Instability of the Euro by Alison Johnston**. (Book Review), New York: <a href="https://www.europenowjournal.org/2017/11/01/from-convergence-to-crisis-labor-markets-and-the-instability-of-the-euro/">Europe Now No. 2017/3</a>.
+**2020. Altered Risks or Static Divides? Labor Market Inequality during the Great Recession** (with Hanna Schwander). Florence: <a href="https://cadmus.eui.eu/bitstream/handle/1814/67752/MWP_2020_09.pdf">Max Weber Working Paper No. 2020/9</a>.
+
+
+**2017. From Convergence to Crisis: Labor Markets and the Instability of the Euro by Alison Johnston**. (Book Review), New York: <a href="https://www.europenowjournal.org/2017/11/01/from-convergence-to-crisis-labor-markets-and-the-instability-of-the-euro/">Europe Now No. 2017/3</a>.
 
 

@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ari_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>Uni-Mail, Room 6395</p>
@@ -29,14 +29,12 @@ latest_posts:
 
 ##### Political Scientist, [University of Geneva](https://www.unige.ch/)
 
-I am a Senior Researcher (SNSF Ambizione) at the [Department of Political Science and International Relations](https://www.unige.ch/sciences-societe/speri/) at the University of Geneva. My research centers on the causes of socio-political inequality and the behavioral foundations of economic policymaking.
+I am a Senior Researcher (SNSF Ambizione) in the [Department of Political Science and International Relations](https://www.unige.ch/sciences-societe/speri/) at the University of Geneva. My research examines the institutional drivers of socio-political inequality and the behavioral foundations of economic policymaking.
 
-In my [current project](https://data.snf.ch/grants/grant/216230), I use public archival data to examine the conditions under which individuals from structurally disprivileged backgrounds grow able to attain public office, and the implications thereof for redistributive politics. I also study the micro-determinants of redistributive preferences in politics. My work in this area covers issues related to [fiscal consolidation](https://academic.oup.com/book/31955), [redistributive attitudes](https://doi.org/10.1111/pops.12944), and the role of [organized labor](https://doi.org/10.1093/ser/mwae027).
+[My current work](https://data.snf.ch/grants/grant/216230) uses archival data to study the conditions under which individuals from structurally disadvantaged backgrounds attain public office, and how their presence shapes economic policy. A second strand of my research examines the behavioral and institutional foundations of redistributive politics, with particular attention to [fiscal consolidation](https://academic.oup.com/book/31955), [redistributive attitudes](https://doi.org/10.1111/pops.12944), and the role of [organized labor](https://doi.org/10.1093/ser/mwae027).
 
-Previously, I was an Early-Career Fellow at the Collegium Helveticum; a Max Weber Fellow at the European University Institute; a PhD Researcher at the University of Zurich and a SNSF Predoctoral Fellow at Stanford University.
+Previously, I was an Early-Career Fellow at the Collegium Helveticum, a Max Weber Fellow at the European University Institute, a PhD Researcher at the University of Zurich, and a SNSF Predoctoral Fellow at Stanford University.
 
-Projects of mine have recieved financing from e.g. the Swiss National Science Foundation, the Russell Sage Foundation and the Stanford Institute for Economic Policy Research. I am a recipient of the CQ Press Award from the APSA Legislative Studies section (2023), the APSA Best Paper Prize on Class & Inequality (2023), and an Honorable Mention for the APSA Best Book on European Politics and Society (2021).
+My research has been supported by the Swiss National Science Foundation, the Russell Sage Foundation, and the Stanford Institute for Economic Policy Research. It has also received the CQ Press Award from the APSA Legislative Studies Section (2023), the APSA Best Paper Prize on Class & Inequality (2023), and an Honorable Mention for the APSA Best Book on European Politics and Society (2021).
 
-For more information, feel free to browse the [Research](https://www.ariray.com/research/) and [CV](https://www.ariray.com/cv/) sections of this site.
-
-
+For more information, please see the [Research](https://www.ariray.com/research/) and [CV](https://www.ariray.com/cv/) sections of this site.
